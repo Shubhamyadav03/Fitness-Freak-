@@ -1,1 +1,2 @@
-# Fitness-Freak-
+# Fitness-Freak
+Mini Project
